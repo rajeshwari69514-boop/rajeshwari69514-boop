@@ -1,4 +1,4 @@
-# 💫 About Me:
+#💫 About Me:
 B.Sc Student in Artificial Intelligence & Machine Learning<br>💻 Learning Python, HTML, CSS, and problem-solving<br>📊 Interested in AI, ML, and data-related projects<br>🌱 Currently improving my coding and logic skills<br>🤝 Open to learning, collaboration, and new challenges
 
 
